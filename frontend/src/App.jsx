@@ -10,8 +10,6 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
-        
-        <Navbar />
       </div>
 
     </Router>
