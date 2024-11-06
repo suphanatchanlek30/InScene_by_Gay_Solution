@@ -1,5 +1,5 @@
 import React from 'react'
-import user_test from "../assets/Img_test_Profile_user/user_test.svg";
+import user_test from "../../assets/Img_test_Profile_user/user_test.svg";
 
 const Profile_user = () => {
     // ข้อมูลแบบ hardcoded
@@ -9,7 +9,7 @@ const Profile_user = () => {
 
     return (
 
-      <div className="p-4 font-body">
+      <div className="font-body">
         {/* กรอบข้อมูล */}
         <div className='flex flex-row items-center justify-start gap-2'>
             {/* รูป Profile */}

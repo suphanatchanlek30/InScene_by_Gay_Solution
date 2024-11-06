@@ -1,10 +1,13 @@
 import React from 'react'
-import Profile_user from '../components/Profile_user'
+import Profile_user from '../components/layout/Profile_user'
 
 const Home = () => {
   return (
-    <div>
-        <Profile_user/>
+    <div className="">
+
+      <Profile_user />
+
+      {/* Main content */}
     </div>
   )
 }
