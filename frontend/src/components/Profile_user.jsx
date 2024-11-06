@@ -1,5 +1,5 @@
 import React from 'react'
-import user_test from "../../assets/Img_test_Profile_user/user_test.svg";
+import user_test from "../assets/Img_test_Profile_user/user_test.svg";
 
 const Profile_user = () => {
     // ข้อมูลแบบ hardcoded
